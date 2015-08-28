@@ -1,0 +1,1717 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Wr",
+				"WriteResponse	 ƒ"
+			],
+			[
+				"GetRestaurant",
+				"GetRestaurantById	*Restaurant, error ƒ"
+			],
+			[
+				"Parse",
+				"ParseInt	i int64, err error ƒ"
+			],
+			[
+				"deal",
+				"dealCount	int64 ν"
+			],
+			[
+				"couun",
+				"countQuery1	string ν"
+			],
+			[
+				"coun",
+				"countQuery2	string ν"
+			],
+			[
+				"Mo",
+				"MobileNumber	string ν"
+			],
+			[
+				"re",
+				"Replace	string ƒ"
+			],
+			[
+				"bod",
+				"bodyString	string ν"
+			],
+			[
+				"String",
+				"strings	 package ρ"
+			],
+			[
+				"MgFind",
+				"MgFindAll	error ƒ"
+			],
+			[
+				"GetDeal",
+				"GetDealById	*models.Deal, error ƒ"
+			],
+			[
+				"count",
+				"count	int64 ν"
+			],
+			[
+				"cou",
+				"countRows	*sql.Rows ν"
+			],
+			[
+				"coutn",
+				"countQuery2	 ν"
+			],
+			[
+				"int",
+				"int64	built-in ʈ"
+			],
+			[
+				"fn",
+				"finalCountQuery	string ν"
+			],
+			[
+				"cout",
+				"countQuery2	 ν"
+			],
+			[
+				"qu",
+				"countQuery2	 ν"
+			],
+			[
+				"final",
+				"finalCountQuery	string ν"
+			],
+			[
+				"Res",
+				"Restaurant	*Restaurant ν"
+			],
+			[
+				"quer",
+				"query1	 ν"
+			],
+			[
+				"Handler",
+				"HandlerFunc	func(http.ResponseWriter, *http.Request) ʈ"
+			],
+			[
+				"Co",
+				"ContainsAny	bool ƒ"
+			],
+			[
+				"L",
+				"Locality	string ν"
+			],
+			[
+				"MgFn",
+				"MgFindAll	error ƒ"
+			],
+			[
+				"MgRet",
+				"MgRetrieveStrong	error ƒ"
+			],
+			[
+				"FOO",
+				"FOOD_AND_BEVERAGES	 Ɩ"
+			],
+			[
+				"fl",
+				"float64	built-in ʈ"
+			],
+			[
+				"Pars",
+				"ParseFloat	f float64, err error ƒ"
+			],
+			[
+				"Hand",
+				"HandlerFunc	func(http.ResponseWriter, *http.Request) ʈ"
+			],
+			[
+				"Start",
+				"StartedOn	time.Time ν"
+			],
+			[
+				"Obje",
+				"ObjectIdHex	bson.ObjectId ƒ"
+			],
+			[
+				"C_DEA",
+				"C_DEAL_LOGS	 Ɩ"
+			],
+			[
+				"Ha",
+				"HandlerFunc	func(http.ResponseWriter, *http.Request) ʈ"
+			],
+			[
+				"Prin",
+				"Println	 ƒ"
+			],
+			[
+				"Obj",
+				"ObjectIdHex	bson.ObjectId ƒ"
+			],
+			[
+				"Ur",
+				"URL	*url.URL ν"
+			],
+			[
+				"l",
+				"limit	int ν"
+			],
+			[
+				"C",
+				"CancelledOn	time.Time ν"
+			],
+			[
+				"Get",
+				"GetPg	*gorm.DB ƒ"
+			],
+			[
+				"cpu",
+				"coupons	 ν"
+			],
+			[
+				"STAT",
+				"STATE_CANCELLED	 Ɩ"
+			],
+			[
+				"FOOD",
+				"FOOD_AND_BEVERAGES	 Ɩ"
+			],
+			[
+				"n",
+				"Notify	error ƒ"
+			],
+			[
+				"Fie",
+				"Fields	map[string]interface{} ʈ"
+			],
+			[
+				"log",
+				"logrus	 package ρ"
+			],
+			[
+				"With",
+				"WithFields	*logrus.Entry ƒ"
+			],
+			[
+				"ini",
+				"Init	 ƒ"
+			],
+			[
+				"GetOrRe",
+				"GetOrRegisterGauge	metrics.Gauge ƒ"
+			],
+			[
+				"disc",
+				"discountType	float64 ν"
+			],
+			[
+				"War",
+				"WarnLevel	 Ɩ"
+			],
+			[
+				"Fav",
+				"FavoriteRestaurantsIds	[]bson.ObjectId ν"
+			],
+			[
+				"Spr",
+				"Sprintf	string ƒ"
+			],
+			[
+				"Mak",
+				"MarkExpired	 ƒ"
+			],
+			[
+				"End",
+				"EndTime	time.Time ν"
+			],
+			[
+				"P",
+				"PhoneNumber	string ν"
+			],
+			[
+				"mer",
+				"merchant	*Merchant ν"
+			],
+			[
+				"Getm",
+				"GetMerchantByRestaurantId	*Merchant, error ƒ"
+			],
+			[
+				"GetRest",
+				"GetRestaurantById	*Restaurant, error ƒ"
+			],
+			[
+				"res",
+				"Restaurant	*Restaurant ν"
+			],
+			[
+				"Ini",
+				"InitPg	error ƒ"
+			],
+			[
+				"N",
+				"MobileNumber	string ν"
+			],
+			[
+				"MgFin",
+				"MgFindAll	error ƒ"
+			],
+			[
+				"Pri",
+				"Println	 ƒ"
+			],
+			[
+				"Par",
+				"ParseInt	i int64, err error ƒ"
+			],
+			[
+				"id",
+				"userId	bson.ObjectId ν"
+			],
+			[
+				"Mg",
+				"MgFindOneStrong	error ƒ"
+			],
+			[
+				"Ob",
+				"ObjectId	string ʈ"
+			],
+			[
+				"cit",
+				"cityNotAvailable	built-in ν"
+			],
+			[
+				"d",
+				"dealSubType	int ν"
+			],
+			[
+				"GetCurr",
+				"GetCurrentDealsForRestaurant	*[]models.Deal, error ƒ"
+			],
+			[
+				"handler",
+				"HandlerFunc	func(http.ResponseWriter, *http.Request) ʈ"
+			],
+			[
+				"s",
+				"Sub	time.Duration ƒ"
+			],
+			[
+				"Getr",
+				"GetRestaurantById	*models.Restaurant, error ƒ"
+			],
+			[
+				"Mob",
+				"MobileNumber	string ν"
+			],
+			[
+				"MgU",
+				"MgUpdateStrong	error ƒ"
+			],
+			[
+				"flo",
+				"float32	built-in ʈ"
+			],
+			[
+				"Repso",
+				"ResponseWriter	interface ¡"
+			],
+			[
+				"qy",
+				"query5	 ν"
+			],
+			[
+				"Send",
+				"SendDataToObjectId	error ƒ"
+			],
+			[
+				"We",
+				"WriteResponse	 ƒ"
+			],
+			[
+				"loca",
+				"locations	*[]string ν"
+			],
+			[
+				"end",
+				"EndedOn	time.Time ν"
+			],
+			[
+				"star",
+				"StartedOn	time.Time ν"
+			],
+			[
+				"creat",
+				"CreatedBy	string ν"
+			],
+			[
+				"Str",
+				"StartedOn	time.Time ν"
+			],
+			[
+				"S",
+				"SubType	int64 ν"
+			],
+			[
+				"De",
+				"DeletedAt	time.Time ν"
+			],
+			[
+				"create",
+				"CreatedAt	time.Time ν"
+			],
+			[
+				"ty",
+				"dType	int ν"
+			],
+			[
+				"No",
+				"Now	time.Time ƒ"
+			],
+			[
+				"Da",
+				"Day	int ƒ"
+			],
+			[
+				"Book",
+				"BookmarkedBy	[]bson.ObjectId ν"
+			],
+			[
+				"Boo",
+				"BookmarkedBy	[]bson.ObjectId ν"
+			],
+			[
+				"db",
+				"dbName	string ν"
+			],
+			[
+				"Cu",
+				"CurrentDeal	*models.Deal ν"
+			],
+			[
+				"GetDea",
+				"GetDealsForRestaurantId	*[]models.Deal, error ƒ"
+			],
+			[
+				"Rest",
+				"RestaurantId	string ν"
+			],
+			[
+				"Respons",
+				"ResponseWriter	interface ¡"
+			],
+			[
+				"Addto",
+				"AddToName	 ƒ"
+			],
+			[
+				"Ge",
+				"Getenv	string ƒ"
+			],
+			[
+				"ge",
+				"Getenv	string ƒ"
+			],
+			[
+				"me",
+				"Merchant	struct ʈ"
+			],
+			[
+				"GetRestaura",
+				"GetRestaurantById	*models.Restaurant, error ƒ"
+			],
+			[
+				"Re",
+				"Restaurant	*models.Restaurant ν"
+			],
+			[
+				"Wri",
+				"WriteResponse	 ƒ"
+			],
+			[
+				"O",
+				"ObjectIdHex	bson.ObjectId ƒ"
+			],
+			[
+				"BaD",
+				"StatusBadRequest	 Ɩ"
+			],
+			[
+				"mgCrea",
+				"MgCreateStrong	error ƒ"
+			],
+			[
+				"in",
+				"Invoice	struct ʈ"
+			],
+			[
+				"Deal",
+				"DealId	int64 ν"
+			],
+			[
+				"co",
+				"coupons	*[]Coupon ν"
+			],
+			[
+				"STA",
+				"STATE_EXPIRED	 Ɩ"
+			],
+			[
+				"MgF",
+				"MgFindPage	error ƒ"
+			],
+			[
+				"STATE",
+				"STATE_EXPIRED	 Ɩ"
+			],
+			[
+				"Af",
+				"AfterFunc	*time.Timer ƒ"
+			],
+			[
+				"C_C",
+				"C_COUPONS	 Ɩ"
+			],
+			[
+				"mG",
+				"MgUpdate	error ƒ"
+			],
+			[
+				"err",
+				"err	 ν"
+			],
+			[
+				"Ty",
+				"Type	int64 ν"
+			],
+			[
+				"Is",
+				"IsExpired	bool ν"
+			],
+			[
+				"REs",
+				"ResponseWriter	interface ¡"
+			],
+			[
+				"Isc",
+				"IsConnectedWithGooglePlus	bool ν"
+			],
+			[
+				"Or",
+				"Order	*gorm.DB ƒ"
+			],
+			[
+				"respons",
+				"ResponseWriter	interface ¡"
+			],
+			[
+				"Sta",
+				"StartedOn	time.Time ν"
+			],
+			[
+				"start",
+				"startDate	time.Time ν"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "gowb.sublime-project",
+			"settings":
+			{
+				"buffer_size": 243,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "gowb.go",
+			"settings":
+			{
+				"buffer_size": 132,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/akshay/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 317,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 237.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"remote",
+				"Remote: Host Session"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"update",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"GoSublime: ",
+				"GoSublime: Activate 9o"
+			],
+			[
+				"GoSublime: impor",
+				"GoSublime: Go to imports section"
+			],
+			[
+				"goimpo",
+				"GoImports"
+			],
+			[
+				"Gos",
+				"GoImports"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"package",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 538.0
+	},
+	"console":
+	{
+		"height": 195.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": true
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/Users/akshay/CodeBase/betacraft/gowb.go",
+		"/Users/akshay/CodeBase/google-api-java-client/google-api-client-android/AndroidManifest.xml",
+		"/Users/akshay/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/akshay/CodeBase/ressy/src/github.com/rainingclouds/ressy/controllers/response.go",
+		"/Users/akshay/CodeBase/ressy/src/github.com/rainingclouds/ressy/models/deal.go",
+		"/Users/akshay/CodeBase/ressy/src/github.com/rainingclouds/ressy/notifications/parse.go",
+		"/Users/akshay/CodeBase/ressy/src/github.com/rainingclouds/ressy/push/parse.go",
+		"/Users/akshay/CodeBase/ressy/src/github.com/rainingclouds/ressy/framework/cron.go",
+		"/Users/akshay/CodeBase/ressy/src/github.com/rainingclouds/ressy/scripts/build.sh",
+		"/Users/akshay/CodeBase/ressy/src/github.com/rainingclouds/ressy/Godeps/_workspace/src/github.com/lib/pq/oid/gen.go",
+		"/Users/akshay/CodeBase/ressy/src/github.com/rainingclouds/ressy/Godeps/_workspace/src/gopkg.in/mgo.v2/export_test.go",
+		"/Users/akshay/CodeBase/ressy/src/github.com/rainingclouds/ressy/models/city.go",
+		"/Users/akshay/CodeBase/ressy/src/github.com/rainingclouds/ressy/Godeps/_workspace/src/github.com/jinzhu/gorm/customize_column_test.go",
+		"/Users/akshay/CodeBase/ressy/src/github.com/rainingclouds/ressy/Godeps/_workspace/src/github.com/jinzhu/gorm/callback_update.go",
+		"/Users/akshay/CodeBase/ressy/src/github.com/rainingclouds/ressy/models/address.go",
+		"/Users/akshay/CodeBase/ressy/src/github.com/rainingclouds/ressy/zomato/importer.go",
+		"/Users/akshay/CodeBase/ressy/src/github.com/rainingclouds/ressy/models/establishments.go",
+		"/Users/akshay/CodeBase/ressy/src/github.com/rainingclouds/ressy/models/location.go",
+		"/Users/akshay/CodeBase/ressy/src/github.com/rainingclouds/ressy/Godeps/_workspace/src/github.com/AdRoll/goamz/s3/responses_test.go",
+		"/Users/akshay/CodeBase/ressy/src/github.com/rainingclouds/ressy/Godeps/_workspace/src/github.com/getsentry/raven-go/README.md",
+		"/Users/akshay/CodeBase/ressy/src/github.com/rainingclouds/ressy/Godeps/_workspace/src/github.com/go-zoo/bone/example/001/example.go",
+		"/Users/akshay/CodeBase/ressy/src/github.com/rainingclouds/ressy/gin-bin",
+		"/Users/akshay/CodeBase/ressy/src/github.com/rainingclouds/ressy/Godeps/_workspace/src/github.com/Sirupsen/logrus/hooks.go",
+		"/Users/akshay/CodeBase/ressy/src/github.com/rainingclouds/ressy/Godeps/_workspace/src/github.com/Sirupsen/logrus/hooks/sentry/sentry.go",
+		"/Users/akshay/CodeBase/ressy/src/github.com/rainingclouds/ressy/Godeps/_workspace/src/github.com/mholt/binding/helper_test.go",
+		"/Users/akshay/CodeBase/ressy/src/github.com/rainingclouds/ressy/Godeps/_workspace/src/github.com/Sirupsen/logrus/hooks/airbrake/airbrake.go",
+		"/Users/akshay/CodeBase/ressy/src/github.com/rainingclouds/ressy/Godeps/_workspace/src/github.com/jinzhu/gorm/association_test.go",
+		"/Users/akshay/CodeBase/ressy/src/github.com/rainingclouds/ressy/Godeps/_workspace/src/github.com/jinzhu/gorm/update_test.go",
+		"/Users/akshay/CodeBase/ressy/src/github.com/rainingclouds/ressy/Godeps/_workspace/src/github.com/Sirupsen/logrus/terminal_windows.go",
+		"/Users/akshay/CodeBase/ressy/src/github.com/rainingclouds/ressy/Godeps/_workspace/src/gopkg.in/mgo.v2/Makefile",
+		"/Users/akshay/CodeBase/ressy/src/github.com/rainingclouds/ressy/Godeps/_workspace/src/github.com/jinzhu/gorm/model_struct.go",
+		"/Users/akshay/CodeBase/ressy/src/github.com/rainingclouds/ressy/Godeps/_workspace/src/github.com/rcrowley/go-metrics/opentsdb.go",
+		"/Users/akshay/CodeBase/ressy-android/.idea/copyright/profiles_settings.xml",
+		"/Users/akshay/CodeBase/ressy/src/github.com/rainingclouds/ressy/interceptors/map.go",
+		"/Users/akshay/CodeBase/ressy/src/github.com/rainingclouds/ressy/Godeps/_workspace/src/gopkg.in/mgo.v2/session.go",
+		"/Users/akshay/CodeBase/ressy/src/github.com/rainingclouds/ressy/Godeps/_workspace/src/github.com/jinzhu/gorm/dialect.go",
+		"/Users/akshay/CodeBase/ressy/src/github.com/rainingclouds/ressy/Godeps/_workspace/src/github.com/mholt/binding/validate_test.go",
+		"/Users/akshay/CodeBase/ressy/src/github.com/rainingclouds/ressy/Dockerfile",
+		"/Users/akshay/CodeBase/ressy/src/github.com/rainingclouds/ressy/scripts/init.sh",
+		"/Users/akshay/CodeBase/ressy/src/github.com/rainingclouds/ressy/README.md",
+		"/Users/akshay/CodeBase/ressy/src/github.com/rainingclouds/ressy/db/migrations.go",
+		"/Users/akshay/CodeBase/ressy/src/github.com/rainingclouds/ressy/models/restaurant_test.go",
+		"/Users/akshay/CodeBase/ressy/src/github.com/rainingclouds/ressy/models/restaurant.go",
+		"/Users/akshay/CodeBase/ressy/src/github.com/rainingclouds/ressy/controllers/common.go",
+		"/Users/akshay/CodeBase/ressy/src/github.com/rainingclouds/ressy/interceptor.go",
+		"/Users/akshay/CodeBase/ressy/src/github.com/rainingclouds/ressy/models/user_bindings.go",
+		"/Users/akshay/CodeBase/ressy/src/github.com/rainingclouds/ressy/ressy.sublime-project",
+		"/Users/akshay/CodeBase/ressy/src/gopkg.in/mgo.v2/log.go",
+		"/Users/akshay/CodeBase/ressy/src/gopkg.in/mgo.v2/LICENSE",
+		"/Users/akshay/CodeBase/ressy/src/github.com/rainingclouds/ressy-web/kernel.go",
+		"/Users/akshay/CodeBase/ressy/src/github.com/rainingclouds/ressy-web/scripts/run.sh",
+		"/Users/akshay/CodeBase/ressy/src/github.com/rainingclouds/ressy-web/db/db.go",
+		"/Users/akshay/CodeBase/ressy/src/github.com/rainingclouds/ressy-web/scripts/update.sh",
+		"/Users/akshay/CodeBase/ressy/src/github.com/rainingclouds/ressy-web/routes.go",
+		"/Users/akshay/CodeBase/ressy/src/gopkg.in/mgo.v2/Makefile",
+		"/Users/akshay/CodeBase/ressy/src/gopkg.in/mgo.v2/doc.go",
+		"/Users/akshay/CodeBase/ressy/src/github.com/tools/godep/update.go",
+		"/Users/akshay/CodeBase/ressy/src/github.com/go-zoo/bone/bone.go",
+		"/Users/akshay/CodeBase/ressy/src/gopkg.in/mgo.v2/bulk.go",
+		"/Users/akshay/CodeBase/distribute/src/distribute/nginx/nginx.conf",
+		"/Users/akshay/CodeBase/distribute/src/distribute/configs/nginx.conf",
+		"/Users/akshay/CodeBase/distribute/src/distribute/configs/supervisord.conf",
+		"/Users/akshay/CodeBase/distribute/src/distribute/shippable.yml",
+		"/Users/akshay/CodeBase/distribute/src/distribute/nginx/nginx1.conf",
+		"/Users/akshay/CodeBase/distribute/src/distribute/static/test.html",
+		"/Users/akshay/CodeBase/distribute/src/distribute/models/developer.go",
+		"/Users/akshay/CodeBase/distribute/src/distribute/models/userDevice.go",
+		"/Users/akshay/CodeBase/distribute/src/distribute/models/tester.go",
+		"/Users/akshay/CodeBase/distribute/src/distribute/codeship.sh",
+		"/Users/akshay/CodeBase/distribute/src/distribute/static/bower_components/jquery/src/var/indexOf.js",
+		"/Users/akshay/CodeBase/distribute/src/distribute/static/bower_components/bootstrap/less/mixins/nav-vertical-align.less",
+		"/Users/akshay/CodeBase/distribute/src/distribute/static/bower_components/jquery/src/attributes/val.js",
+		"/Users/akshay/CodeBase/distribute/src/distribute/.idea/vcs.xml",
+		"/Users/akshay/CodeBase/distribute/src/distribute/static/bower_components/highlightjs/styles/kimbie.dark.css",
+		"/Users/akshay/CodeBase/distribute/src/distribute/static/bower_components/highlightjs/styles/atelier-lakeside.dark.css",
+		"/Users/akshay/CodeBase/distribute/src/distribute/static/img/slack_logo.svg",
+		"/Users/akshay/CodeBase/distribute/src/distribute/Godeps/_workspace/src/github.com/DHowett/go-plist/LICENSE",
+		"/Users/akshay/CodeBase/distribute/src/distribute/deploy-staging.sh",
+		"/Users/akshay/CodeBase/distribute/src/distribute/static/bower_components/bootstrap/grunt/sauce_browsers.yml",
+		"/Users/akshay/CodeBase/distribute/src/distribute/controllers/slackIntegrationController.go",
+		"/Users/akshay/CodeBase/distribute/src/distribute/Godeps/_workspace/src/github.com/yvasiyarov/go-metrics/cmd/metrics-example/metrics-example.go",
+		"/Users/akshay/CodeBase/distribute/src/distribute/static/partials/exception_details.html",
+		"/Users/akshay/CodeBase/distribute/src/distribute/static/partials/exceptions.html",
+		"/Users/akshay/CodeBase/distribute/src/distribute/static/css/exceptions.css",
+		"/Users/akshay/CodeBase/distribute/src/distribute/static/partials/devices.html",
+		"/Users/akshay/CodeBase/distribute/src/distribute/Godeps/_workspace/src/github.com/go-go/gin/examples/app-engine/app.yaml",
+		"/Users/akshay/CodeBase/distribute/src/distribute/static/bower_components/bootstrap/less/component-animations.less",
+		"/Users/akshay/CodeBase/distribute/src/distribute/Godeps/_workspace/src/github.com/jinzhu/gorm/doc/development.md",
+		"/Users/akshay/CodeBase/distribute/src/distribute/.idea/encodings.xml",
+		"/Users/akshay/CodeBase/distribute/src/distribute/Godeps/_workspace/src/github.com/go-go/gin/examples/example_basic.go",
+		"/Users/akshay/CodeBase/distribute/src/distribute/static/bower_components/bootstrap/less/mixins/center-block.less",
+		"/Users/akshay/CodeBase/distribute/src/distribute/Godeps/_workspace/src/github.com/lib/pq/conn_xact_test.go",
+		"/Users/akshay/CodeBase/distribute/src/distribute/static/bower_components/bootstrap/less/mixins/clearfix.less",
+		"/Users/akshay/CodeBase/distribute/src/distribute/test.go",
+		"/Users/akshay/CodeBase/blog/source/_posts/2015-01-02-creating-maven-repo-on-github.markdown",
+		"/Users/akshay/CodeBase/distribute/src/distribute/static/bower_components/jquery/src/offset.js",
+		"/Users/akshay/CodeBase/distribute/src/distribute/static/bower_components/jquery/src/outro.js",
+		"/Users/akshay/CodeBase/distribute/src/distribute/Godeps/_workspace/src/github.com/yvasiyarov/go-metrics/opentsdb.go",
+		"/Users/akshay/CodeBase/distribute/src/distribute/static/bower_components/bootstrap/less/mixins/opacity.less",
+		"/Users/akshay/CodeBase/distribute/src/distribute/models/iPhoneDevice",
+		"/Users/akshay/CodeBase/blog/source/_posts/2014-12-15-map-to-struct-in-golang.markdown",
+		"/Users/akshay/CodeBase/distribute/src/distribute/dashboard.html",
+		"/Users/akshay/CodeBase/distribute/src/distribute/complete_registration.html",
+		"/Users/akshay/CodeBase/distribute/src/distribute/static/bower_components/bootstrap/less/responsive-embed.less",
+		"/Users/akshay/CodeBase/distribute/src/distribute/db-wrapper/db_wrapper.go",
+		"/Users/akshay/CodeBase/distribute/src/distribute/static/bower_components/angular/angular-csp.css",
+		"/Users/akshay/CodeBase/distribute/src/distribute/static/bower_components/angular-cookie/angular-cookie.js",
+		"/Users/akshay/CodeBase/distribute/src/distribute/static/bower_components/angular-cookie/angular-cookie.min.js",
+		"/Users/akshay/CodeBase/distribute/src/distribute/Godeps/_workspace/src/github.com/jinzhu/gorm/scope_test.go",
+		"/Users/akshay/CodeBase/distribute/src/distribute/Godeps/_workspace/src/github.com/crowdmob/goamz/s3/s3.go",
+		"/Users/akshay/CodeBase/distribute/src/distribute/static/bower_components/bootstrap/less/mixins/nav-divider.less",
+		"/Users/akshay/CodeBase/distribute/src/github.com/lunny/axmlParser/parse.go",
+		"/Users/akshay/CodeBase/distribute/src/distribute/static/bower_components/bootstrap/less/mixins/resize.less",
+		"/Users/akshay/CodeBase/distribute/src/distribute/static/bower_components/bootstrap/less/responsive-utilities.less",
+		"/Users/akshay/CodeBase/distribute/src/distribute/static/bower_components/bootstrap/less/mixins/hide-text.less",
+		"/Users/akshay/Library/Application Support/Sublime Text 3/Packages/GoSublime/USAGE.md",
+		"/Users/akshay/CodeBase/distribute/src/distribute/distribute.sublime-project",
+		"/Users/akshay/CodeBase/distribute/src/distribute/kernel.go",
+		"/Users/akshay/CodeBase/adbd/src/adbd/models/logs.go",
+		"/Users/akshay/CodeBase/adbd/src/adbd/Godeps/_workspace/src/github.com/julienschmidt/httprouter/router.go",
+		"/Users/akshay/CodeBase/adbd/src/adbd/static/bower_components/angular-route/angular-route.js",
+		"/Users/akshay/CodeBase/adbd/src/adbd/static/bower_components/angular-route/angular-route.min.js.map",
+		"/Users/akshay/CodeBase/adbd/src/adbd/static/bower_components/hammerjs/CHANGELOG.md",
+		"/Users/akshay/CodeBase/adbd/src/adbd/static/bower_components/hammerjs/hammer.min.js",
+		"/Users/akshay/CodeBase/adbd/src/adbd/static/bower_components/hammerjs/hammer.js",
+		"/Users/akshay/CodeBase/adbd/src/adbd/Godeps/_workspace/src/github.com/crowdmob/goamz/s3/s3.go",
+		"/Users/akshay/CodeBase/adbd/src/adbd/Godeps/_workspace/src/github.com/gin-gonic/gin/gin.go",
+		"/Users/akshay/CodeBase/adbd/src/adbd/Godeps/_workspace/src/github.com/lib/pq/oid/gen.go"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+			"<open folders>",
+			"/Users/akshay/CodeBase/keen-server/src/keen_webapp"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"<<<",
+			"dev",
+			"$or",
+			"{\n",
+			"CurrentDeal",
+			"currentDeal",
+			"deals",
+			"dbName",
+			"}\n",
+			"merchant",
+			"Fav",
+			"()\n",
+			"merchant_ids",
+			"MerchantIds",
+			"ObjectId",
+			"apiTime",
+			"Cusine",
+			"otp_code",
+			"new",
+			"{",
+			"from",
+			"urlStr",
+			"authToken",
+			"accountSid",
+			"mongoSession",
+			"caluse",
+			"mPtr",
+			"\"\"",
+			"m",
+			"bodyMap",
+			"Interceptor",
+			"requestBody",
+			"body",
+			"requestBodyMap",
+			"aa1ny1eu1fkaaub.clrqd0tvbukb.ap-southeast-1.rds.amazonaws.com",
+			"%",
+			"device",
+			"Count",
+			"Counr",
+			"count",
+			"PushException",
+			"&",
+			"GetDeviceForId",
+			"%",
+			"nil",
+			"AndroidSdkAuthenticator",
+			"GetUrlForIpaUpload",
+			"GetUrlForApkUpload",
+			"ValidateApk",
+			"AndroidDevice",
+			"StatusFound",
+			"Error while getting",
+			"\"github.com/go-gomail/gomail\"",
+			"		\n",
+			"build",
+			"download",
+			"Device ",
+			"devices",
+			"name",
+			"apkId",
+			"ApkId",
+			"Device",
+			"App",
+			"Device",
+			"App",
+			"dst_session_key",
+			"c",
+			"}",
+			"}\n",
+			"context",
+			"userRouter",
+			"context",
+			"adbd",
+			"dbWrapper",
+			"apiRouter",
+			"uiRouter",
+			"context",
+			"dbWrapper",
+			"RouterGroup",
+			"HandlerFunc",
+			"request",
+			"\"Device deleted successfully\"",
+			"basic",
+			"db",
+			"md-sidenav",
+			"right",
+			"{\n",
+			"required",
+			"                                                           ",
+			"div",
+			"  ",
+			"8px",
+			"public",
+			"img/",
+			"img",
+			"form",
+			"loginForm",
+			"form",
+			"\"\n",
+			":\n",
+			"user.Update",
+			"Update",
+			"SendChatRequest",
+			"AddAskee",
+			"associat",
+			"color",
+			"..\n",
+			"lead",
+			"Keen",
+			"submit",
+			"\":\n",
+			"404 page not found",
+			"nil",
+			"database",
+			"db",
+			"Header",
+			"Type",
+			"\"\n",
+			"	\n",
+			"18"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"static",
+			"public/img/",
+			"loginForm",
+			"signupForm",
+			"loginForm"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "gowb.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 243,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								120,
+								120
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "gowb.go",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 132,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								127,
+								127
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/akshay/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 317,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.9o:///Users/akshay/CodeBase/adbd/src/adbd":
+	{
+		"height": 140.0
+	},
+	"output.9o:///Users/akshay/CodeBase/adbd/src/adbd/models":
+	{
+		"height": 140.0
+	},
+	"output.9o:///Users/akshay/CodeBase/distribute/src/distribute":
+	{
+		"height": 140.0
+	},
+	"output.9o:///Users/akshay/CodeBase/distribute/src/distribute/parser":
+	{
+		"height": 140.0
+	},
+	"output.9o:///Users/akshay/CodeBase/keen-server/src/keen_webapp":
+	{
+		"height": 142.0
+	},
+	"output.9o:///Users/akshay/CodeBase/keen-server/src/keen_webapp/user":
+	{
+		"height": 142.0
+	},
+	"output.9o:///Users/akshay/CodeBase/ressy/src/github.com/rainingclouds/ressy-web":
+	{
+		"height": 140.0
+	},
+	"output.9o:///Users/akshay/CodeBase/ressy/src/github.com/rainingclouds/ressy/controllers":
+	{
+		"height": 140.0
+	},
+	"output.9o:///Users/akshay/CodeBase/ressy/src/github.com/rainingclouds/ressy/db":
+	{
+		"height": 140.0
+	},
+	"output.9o:///Users/akshay/CodeBase/ressy/src/github.com/rainingclouds/ressy/framework":
+	{
+		"height": 140.0
+	},
+	"output.9o:///Users/akshay/CodeBase/ressy/src/github.com/rainingclouds/ressy/models":
+	{
+		"height": 140.0
+	},
+	"output.GsDoc-output-output":
+	{
+		"height": 142.0
+	},
+	"output.MarGo-output":
+	{
+		"height": 142.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.haskell_sublime_load":
+	{
+		"height": 140.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "gowb.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"gowb.go"
+			],
+			[
+				"user",
+				"controllers/user.go"
+			],
+			[
+				"mer",
+				"controllers/merchant.go"
+			],
+			[
+				"locatio",
+				"controllers/location.go"
+			],
+			[
+				"rest",
+				"models/restaurant.go"
+			],
+			[
+				"deal",
+				"models/deal.go"
+			],
+			[
+				"doc",
+				"Dockerfile"
+			],
+			[
+				"invoi",
+				"controllers/invoice.go"
+			],
+			[
+				"rout",
+				"routes.go"
+			],
+			[
+				"run",
+				"scripts/run.sh"
+			],
+			[
+				"insta",
+				"scripts/install_dependencies.sh"
+			],
+			[
+				"do",
+				"Dockerfile"
+			],
+			[
+				"dea",
+				"models/deal.go"
+			],
+			[
+				"depl",
+				"scripts/deploy_staging.sh"
+			],
+			[
+				"de",
+				"controllers/deal.go"
+			],
+			[
+				"resta",
+				"controllers/restaurant.go"
+			],
+			[
+				"rou",
+				"routes.go"
+			],
+			[
+				"ker",
+				"kernel.go"
+			],
+			[
+				"db",
+				"db/crud.go"
+			],
+			[
+				"res",
+				"models/restaurant.go"
+			],
+			[
+				"loca",
+				"controllers/location.go"
+			],
+			[
+				"cou",
+				"models/coupon.go"
+			],
+			[
+				"htt",
+				"interceptors/http.go"
+			],
+			[
+				"log",
+				"logger/logger.go"
+			],
+			[
+				"lo",
+				"logger/logger.go"
+			],
+			[
+				"logg",
+				"logger/logger.go"
+			],
+			[
+				"sgu",
+				"sms/gupshup.go"
+			],
+			[
+				"mercha",
+				"models/merchant.go"
+			],
+			[
+				"ro",
+				"routes.go"
+			],
+			[
+				"cr",
+				"db/crud.go"
+			],
+			[
+				"cusin",
+				"models/cuisine.go"
+			],
+			[
+				"route",
+				"routes.go"
+			],
+			[
+				"restar",
+				"models/restaurant.go"
+			],
+			[
+				"rres",
+				"controllers/response.go"
+			],
+			[
+				"test",
+				"scripts/test.sh"
+			],
+			[
+				"u",
+				"models/user.go"
+			],
+			[
+				"us",
+				"controllers/user.go"
+			],
+			[
+				"ru",
+				"scripts/run.sh"
+			],
+			[
+				"bui",
+				"scripts/build.sh"
+			],
+			[
+				"admin",
+				"models/admin.go"
+			],
+			[
+				"http",
+				"interceptors/http.go"
+			],
+			[
+				"aut",
+				"interceptors/authenticator.go"
+			],
+			[
+				"cru",
+				"db/crud.go"
+			],
+			[
+				"use",
+				"models/user.go"
+			],
+			[
+				"uti",
+				"framework/utils.go"
+			],
+			[
+				"twi",
+				"sms/twilio.go"
+			],
+			[
+				"crud",
+				"db/crud.go"
+			],
+			[
+				"mongo",
+				"db/mongo.go"
+			],
+			[
+				"merch",
+				"models/merchant.go"
+			],
+			[
+				"req",
+				"framework/request.go"
+			],
+			[
+				"auth",
+				"interceptors/authenticator.go"
+			],
+			[
+				"mon",
+				"db/mongo.go"
+			],
+			[
+				"ins",
+				"scripts/install_dependencies.sh"
+			],
+			[
+				"contro",
+				"framework/controller.go"
+			],
+			[
+				"contr",
+				"framework/controller.go"
+			],
+			[
+				"tw",
+				"sms/twillo.go"
+			],
+			[
+				"colle",
+				"models/collections.go"
+			],
+			[
+				"reas",
+				"models/restaurant.go"
+			],
+			[
+				"d",
+				"models/deal.go"
+			],
+			[
+				"ser",
+				"models/user.go"
+			],
+			[
+				"ad",
+				"models/admin.go"
+			],
+			[
+				"cont",
+				"framework/controller.go"
+			],
+			[
+				"fra",
+				"framework/controller.go"
+			],
+			[
+				"inter",
+				"~/CodeBase/ressy/src/github.com/rainingclouds/ressy/interceptor.go"
+			],
+			[
+				"upda",
+				"github.com/rainingclouds/ressy-web/scripts/update.sh"
+			],
+			[
+				"upa",
+				"github.com/tools/godep/update.go"
+			],
+			[
+				"kern",
+				"github.com/rainingclouds/ressy-web/kernel.go"
+			],
+			[
+				"docker",
+				"Dockerfile"
+			],
+			[
+				"android",
+				"models/androidDevice.go"
+			],
+			[
+				"tester",
+				"models/tester.go"
+			],
+			[
+				"ipa",
+				"models/ipa.go"
+			],
+			[
+				"ioa",
+				"static/img/android.svg"
+			],
+			[
+				"slac",
+				"models/slack.go"
+			],
+			[
+				"int",
+				"controllers/integrationsController.go"
+			],
+			[
+				"sla",
+				"models/slack.go"
+			],
+			[
+				"mi",
+				"migrations.go"
+			],
+			[
+				"sl",
+				"controllers/slackIntegrationController.go"
+			],
+			[
+				"app",
+				"models/app.go"
+			],
+			[
+				"slack",
+				"models/slack.go"
+			],
+			[
+				"a",
+				"middlewares/authenticator.go"
+			],
+			[
+				"exce",
+				"models/androidExceptions.go"
+			],
+			[
+				"devi",
+				"models/androidDevice.go"
+			],
+			[
+				"ap",
+				"models/app.go"
+			],
+			[
+				"an",
+				"models/androidDevice.go"
+			],
+			[
+				"androidde",
+				"models/androidDevice.go"
+			],
+			[
+				"au",
+				"middlewares/authenticator.go"
+			],
+			[
+				"appcon",
+				"controllers/appController.go"
+			],
+			[
+				"mailer",
+				"mailer/mailer.go"
+			],
+			[
+				"dev",
+				"controllers/deviceController.go"
+			],
+			[
+				"wra",
+				"db/wrapper.go"
+			],
+			[
+				"acc",
+				"controllers/accountController.go"
+			],
+			[
+				"ipoa",
+				"models/ipa.go"
+			],
+			[
+				"ui",
+				"controllers/uiController.go"
+			],
+			[
+				"r",
+				"routes.go"
+			],
+			[
+				"apk",
+				"models/apk.go"
+			],
+			[
+				"reg",
+				"models/registrationEntry.go"
+			],
+			[
+				"mig",
+				"models/migration.go"
+			],
+			[
+				"accou",
+				"models/account.go"
+			],
+			[
+				"ac",
+				"controllers/accountController.go"
+			],
+			[
+				"androi",
+				"models/androidDevice.go"
+			],
+			[
+				"device",
+				"models/device.go"
+			],
+			[
+				"con",
+				"controllers/uiController.go"
+			],
+			[
+				"gin",
+				"Godeps/_workspace/src/github.com/gin-gonic/gin/gin.go"
+			],
+			[
+				"ses",
+				"models/session.go"
+			],
+			[
+				"s3",
+				"Godeps/_workspace/src/github.com/crowdmob/goamz/s3/s3.go"
+			],
+			[
+				"aws",
+				"Godeps/_workspace/src/github.com/crowdmob/goamz/aws/aws.go"
+			],
+			[
+				"sess",
+				"controllers/sessionController.go"
+			],
+			[
+				"usercon",
+				"controllers/userController.go"
+			],
+			[
+				"sessioncon",
+				"controllers/sessionController.go"
+			],
+			[
+				"com",
+				"controllers/common.go"
+			],
+			[
+				"region",
+				"models/region.go"
+			],
+			[
+				"regioncon",
+				"controllers/regionController.go"
+			],
+			[
+				"regio",
+				"models/region.go"
+			],
+			[
+				"authen",
+				"middlewares/authenticator.go"
+			],
+			[
+				"tem",
+				"templateLoader.go"
+			],
+			[
+				"comm",
+				"controllers/common.go"
+			],
+			[
+				"devoce",
+				"models/deviceProfile.go"
+			],
+			[
+				"devicepro",
+				"controllers/deviceProfilesController.go"
+			],
+			[
+				"dbwra",
+				"dbWrapper/db_helper.go"
+			],
+			[
+				"migr",
+				"migrations.go"
+			],
+			[
+				"ans",
+				"models/answer.go"
+			],
+			[
+				"qu",
+				"models/question.go"
+			],
+			[
+				"que",
+				"models/question.go"
+			],
+			[
+				"sele",
+				"selector/selector.go"
+			],
+			[
+				"json",
+				"controllers/jsonResponder.go"
+			],
+			[
+				"reque",
+				"controllers/requestHandler.go"
+			],
+			[
+				"respo",
+				"controllers/responder.go"
+			],
+			[
+				"q",
+				"controllers/questionController.go"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 33.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"GetPopul",
+				"GetPopularLocations"
+			],
+			[
+				"CreateInvoic",
+				"CreateInvoice"
+			],
+			[
+				"DialIn",
+				"DialInfo"
+			],
+			[
+				"getBas",
+				"getBaseUrl"
+			],
+			[
+				"GetExceptionsForApp",
+				"GetExceptionsForApp"
+			],
+			[
+				"GetDevices",
+				"GetDevicesForApp"
+			],
+			[
+				"HTML",
+				"HTML"
+			],
+			[
+				"GetAccountINfo",
+				"GetAccountInfo"
+			],
+			[
+				"GetAccount",
+				"getAccountInfo"
+			],
+			[
+				"HandlerFunc",
+				"HandlerFunc"
+			]
+		],
+		"width": 475.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 213.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

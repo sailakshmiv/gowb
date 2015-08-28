@@ -1,0 +1,16 @@
+{
+  "settings": {
+          "GoSublime": {
+              "env": {
+                "GOPATH": "/Users/akshay/CodeBase/gowb"
+              }
+          }
+      },
+  "folders":
+  [
+    {
+      "follow_symlinks": true,
+      "path": "."
+    }
+  ]
+}
